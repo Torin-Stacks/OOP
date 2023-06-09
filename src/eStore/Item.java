@@ -1,6 +1,6 @@
 package eStore;
 
-public class Items {
+public class Item {
 
     private int quantity;
     private Product product;

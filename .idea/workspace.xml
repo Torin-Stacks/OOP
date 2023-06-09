@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81f59497-89ff-4fa6-903f-77029ec3d57c" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DuplicateNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewEveningSharpTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demeeter/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demeeter/Wallet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/diary/Diary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/diary/Gist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eStore/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eveningSharpTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/livingThings/Amphibians.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/livingThings/Animals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/livingThings/Aves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/livingThings/Invertebrates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/livingThings/LivingThings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/livingThings/Mammals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/livingThings/NonLivingThings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/livingThings/Pisces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/livingThings/Plants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/livingThings/Reptiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/livingThings/Things.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/livingThings/Vertebrates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mechanics/BackWheel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mechanics/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mechanics/BrakeLever.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mechanics/BrakeSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mechanics/Brakes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mechanics/DriveSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mechanics/Fork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mechanics/FrontWheel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mechanics/Gear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mechanics/HandleBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mechanics/Pedal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mechanics/SteerSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mechanics/Wheel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stackss/StackOfIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/BankTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/DiaryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/DuplicateNoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/eveningSharpTestTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/eStore/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eStore/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/eStore/BillingInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eStore/BillingInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/eStore/CreditCardInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eStore/CreditCardInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/eStore/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eStore/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/eStore/Items.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eStore/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/eStore/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eStore/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/eStore/Seller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eStore/Seller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/eStore/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eStore/ShoppingCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/eStore/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eStore/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/personalityTest/MbtiDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personalityTest/MbtiDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/personalityTest/MbtiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personalityTest/MbtiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/personalityTest/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personalityTest/User.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PyRDJ9gItSzlIhBDK8DXDq12ft" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_directory_selection&quot;: &quot;/home/user/IdeaProjects/OOP/src/bank&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+      <recent name="bank" />
+      <recent name="diary" />
+      <recent name="demeeter" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="bank" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BankTest.testBankCanTransfer">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bank.Main" />
+      <module name="OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOP" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BankTest" />
+      <option name="METHOD_NAME" value="testBankCanWithdraw" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTest.customerCanCreateNewAccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOP" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BankTest" />
+      <option name="METHOD_NAME" value="customerCanCreateNewAccountTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTest.testBankCanTransfer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOP" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BankTest" />
+      <option name="METHOD_NAME" value="testBankCanTransfer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTest.testBankCanTransferNed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOP" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BankTest" />
+      <option name="METHOD_NAME" value="testBankCanTransferNed" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BankTest.testBankCanTransfer" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.BankTest.testBankCanTransferNed" />
+        <item itemvalue="JUnit.BankTest" />
+        <item itemvalue="JUnit.BankTest.customerCanCreateNewAccountTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81f59497-89ff-4fa6-903f-77029ec3d57c" name="Changes" comment="" />
+      <created>1684427216097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684427216097</updated>
+      <workItem from="1684436641433" duration="43242000" />
+      <workItem from="1684620692620" duration="38277000" />
+      <workItem from="1684828893911" duration="8481000" />
+      <workItem from="1685183352178" duration="34237000" />
+      <workItem from="1685463642688" duration="23542000" />
+      <workItem from="1685675780014" duration="2348000" />
+      <workItem from="1685688911335" duration="48817000" />
+      <workItem from="1686166934055" duration="5321000" />
+      <workItem from="1686211012965" duration="5116000" />
+      <workItem from="1686231496662" duration="29042000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1684742655862</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684742655862</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ExceptionHandling.java</url>
+          <line>1</line>
+          <properties class="ExceptionHandling" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
